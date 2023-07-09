@@ -3,7 +3,7 @@ import React from 'react';
 export default function Contact() {
   return (
     <div className='header-wrapper'>
-      <h1>Contact Page</h1>
+      <h1 className='main-info'>Contact Page</h1>
       <p>
         Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis
         molestie urna. Aliquam semper ultrices varius. Aliquam faucibus sit amet

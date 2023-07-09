@@ -36,7 +36,14 @@
     transform: rotate(360deg);
   }
 } */
-
+.portfolio-container {
+  display: flex;
+  flex-direction:row;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 100vh;
+  color: black;
+}
 /* Nav-links */
 .navbar-nav {
   margin-right: 10rem;
