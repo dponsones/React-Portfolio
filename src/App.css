@@ -63,3 +63,10 @@ a.navbar-brand {
   background-position: center;
   height:90vh;
 }
+
+.main-info {
+  color: aliceblue;
+}
+.main-info h1, p {
+  color: aliceblue;
+}
