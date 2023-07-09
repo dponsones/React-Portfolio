@@ -38,10 +38,12 @@
 } */
 
 /* Nav-links */
-.navbar-nav{
-  text-align-last: auto;
+.navbar-nav {
+  margin-right: 10rem;
 }
-
+.navbar-brand {
+  margin-left: 10rem;
+}
 
 .navbar-nav> li > a {
   color:aliceblue;
