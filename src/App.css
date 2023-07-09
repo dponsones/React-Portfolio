@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,29 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+/* Nav-links */
+.navbar-nav{
+  text-align-last: auto;
+}
+
+
+.navbar-nav> li > a {
+  color:aliceblue;
+}
+
+
+a.navbar-brand {
+  color: white
+}
+
+/* Header */
+
+.header-wrapper {
+  position: relative;
+  background: url(portfolio-background.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  height:90vh;
 }
