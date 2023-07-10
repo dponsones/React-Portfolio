@@ -1,7 +1,8 @@
 import React from 'react';
 import Card from '../Card';
-import cash4cacheImage from './cash4cache.png';
-import literacyLaneImage from './Literacy-Lane.png'
+import cash4cacheImage from './images/cash4cache.png';
+import literacyLaneImage from './images/Literacy-Lane.png';
+import JsQuiz from './images/Jsquiz.jpeg'
 const Portfolio = () => {
   return (
     <div className='header-wrapper'>
@@ -18,21 +19,21 @@ const Portfolio = () => {
           imgAlt="Literacy Lane logo"
           title="Literacy Lane"
           description="Website designed to help children read and learn "
-          link="google.com"
+          link="https://github.com/dponsones"
+          />
+        <Card
+          imgSrc={JsQuiz}
+          imgAlt="JsQuiz"
+          title="JavaScript Quiz"
+          description="Quiz yourself on JavaScript!"
+          link="https://github.com/dponsones"
           />
         <Card
           imgSrc={cash4cacheImage}
           imgAlt="Cash4cache logo"
           title="Cash4Cache"
           description="Eccommerce website for computer products"
-          link="google.com"
-          />
-        <Card
-          imgSrc={cash4cacheImage}
-          imgAlt="Cash4cache logo"
-          title="Cash4Cache"
-          description="Eccommerce website for computer products"
-          link="google.com"
+          link="https://github.com/dponsones"
           />
         <Card
           imgSrc={cash4cacheImage}

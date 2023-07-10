@@ -48,8 +48,9 @@
 .navbar-nav {
   margin-right: 10rem;
 }
-.navbar-brand {
+.navbar-brand img {
   margin-left: 10rem;
+  
 }
 
 .navbar-nav> li > a {
@@ -76,4 +77,10 @@ a.navbar-brand {
 }
 .main-info h1, p {
   color: aliceblue;
+}
+
+/* Resume */
+.resume {
+  color: whitesmoke;
+  align-items: center;
 }
