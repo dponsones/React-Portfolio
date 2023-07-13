@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.a22f49f7.css",
-    "main.js": "/React-Portfolio/static/js/main.c27c241f.js",
+    "main.js": "/React-Portfolio/static/js/main.e12e279d.js",
     "static/js/787.aeca62f9.chunk.js": "/React-Portfolio/static/js/787.aeca62f9.chunk.js",
     "static/media/portfolio-background.jpg": "/React-Portfolio/static/media/portfolio-background.efcb4467fd975d0253da.jpg",
     "static/media/Literacy-Lane.png": "/React-Portfolio/static/media/Literacy-Lane.ebc71f5966de42994381.png",
     "static/media/Jsquiz.jpeg": "/React-Portfolio/static/media/Jsquiz.b5d43fb8a6dad95abec8.jpeg",
     "static/media/cash4cache.png": "/React-Portfolio/static/media/cash4cache.859b578ab5d638395fb3.png",
     "static/media/PortfolioLogo.png": "/React-Portfolio/static/media/PortfolioLogo.bbbe49217b338f9d1255.png",
+    "static/media/VinylVibes.png": "/React-Portfolio/static/media/VinylVibes.5a1be4b044402eb320b8.png",
     "index.html": "/React-Portfolio/index.html",
     "main.a22f49f7.css.map": "/React-Portfolio/static/css/main.a22f49f7.css.map",
-    "main.c27c241f.js.map": "/React-Portfolio/static/js/main.c27c241f.js.map",
+    "main.e12e279d.js.map": "/React-Portfolio/static/js/main.e12e279d.js.map",
     "787.aeca62f9.chunk.js.map": "/React-Portfolio/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a22f49f7.css",
-    "static/js/main.c27c241f.js"
+    "static/js/main.e12e279d.js"
   ]
 }
